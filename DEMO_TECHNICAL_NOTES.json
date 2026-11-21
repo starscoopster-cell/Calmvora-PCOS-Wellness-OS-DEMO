@@ -1,0 +1,30 @@
+{
+  "project": "Calmvora Public Interactive Demo",
+  "source": "Calmvora v5.1 FINAL UK UAE Official Brand",
+  "record_storage": "JavaScript module-local array (in-memory only)",
+  "browser_persistence_apis": [],
+  "network_to_apis": "None from application CRUD",
+  "reset_behavior": "Browser reload reinitializes fictional sample records; modifications lost",
+  "export_import": "Disabled in public demo",
+  "private_credentials": "None",
+  "release_type": "Standalone static website, NOT Google Apps Script backend",
+  "limitations": [
+    "No license/Google authorization tests",
+    "Google Fonts requests for typography",
+    "Host may record standard HTTP access logs"
+  ],
+  "guided_walkthrough": {
+    "feature_count": 24,
+    "in_memory_only": true,
+    "coach": [
+      "Next/Back",
+      "Exit",
+      "Context help",
+      "Open practice form",
+      "Minimize and resume"
+    ],
+    "covered": [
+      "all sidebar pages except Guided Tour itself"
+    ]
+  }
+}

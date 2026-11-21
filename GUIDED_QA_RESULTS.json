@@ -1,0 +1,221 @@
+{
+  "passed": 43,
+  "total": 43,
+  "tests": [
+    {
+      "test": "1440 load",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "1440 page-context guide button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "1440 no horizontal overflow",
+      "pass": true,
+      "details": "{'sw': 1440, 'iw': 1440}"
+    },
+    {
+      "test": "1440 no storage",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "context walkthrough starts",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "first step 1 of 4",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "next step works",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "back works",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "guide library opens",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "all feature list",
+      "pass": true,
+      "details": "24"
+    },
+    {
+      "test": "sidebar current module guide",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "meal guide selected",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "meal steps listed",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "guided meal navigated",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "meal step 3",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "practice form opened with guide",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "form is usable",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "practice record saved",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "guide remains after save",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "detail view works after guided save",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "guided practice record removed on fresh load",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "coach reset on fresh load",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "no storage after testing",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "per-page guided help correct",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "1440 no JS errors",
+      "pass": true,
+      "details": "[]"
+    },
+    {
+      "test": "390 load",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 page-context guide button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 no horizontal overflow",
+      "pass": true,
+      "details": "{'sw': 390, 'iw': 390}"
+    },
+    {
+      "test": "390 no storage",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 coach on mobile",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 mobile horizontal no overflow with coach",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 guide hub opens",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 journal guide selected",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "390 no JS errors",
+      "pass": true,
+      "details": "[]"
+    },
+    {
+      "test": "320 load",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 page-context guide button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 no horizontal overflow",
+      "pass": true,
+      "details": "{'sw': 320, 'iw': 320}"
+    },
+    {
+      "test": "320 no storage",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 coach on mobile",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 mobile horizontal no overflow with coach",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 guide hub opens",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 journal guide selected",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "test": "320 no JS errors",
+      "pass": true,
+      "details": "[]"
+    }
+  ]
+}

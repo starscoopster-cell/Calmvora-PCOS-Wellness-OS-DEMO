@@ -1,0 +1,38 @@
+{
+  "feature_guide_routes": [
+    "dashboard",
+    "care",
+    "SYMPTOM",
+    "CYCLE",
+    "medicines",
+    "MEAL",
+    "sleep",
+    "analytics",
+    "library",
+    "DAILY",
+    "DOCTOR",
+    "LAB",
+    "report",
+    "journey",
+    "settings",
+    "BBT",
+    "ROUTINE",
+    "GROCERY",
+    "GOAL",
+    "REVIEW",
+    "NOTE",
+    "MED",
+    "DOSE",
+    "CARE"
+  ],
+  "demo_persists_to_storage": false,
+  "refresh_resets_guide": true,
+  "coach_actions": [
+    "start",
+    "next",
+    "back",
+    "close",
+    "open-practice-form",
+    "all-feature-guides"
+  ]
+}
